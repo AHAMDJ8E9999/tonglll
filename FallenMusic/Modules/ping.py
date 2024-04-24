@@ -53,7 +53,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("- قناة الدعم .", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "- السورس .",
-                        url="https://t.me/VVV5P",
+                        url="https://t.me/VIVIVIVVIV2",
                     ),
                 ],
             ]
