@@ -1,7 +1,7 @@
 {
-    "name": "بشار صوتي",
+    "name": "ابو صكر  صوتي",
     "description": "- السورس اخر اصدار .",
-    "logo": "https://telegra.ph/file/5fab2702710ef5429b7fc.png",
+    "logo": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "- اكتب ايدي المالك .",
-        "value": "1854384004",
+        "value": "6189288231",
         "required": true
       },
       "SESSION": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "- قناة المطور .",
-        "value": "https://t.me/xl444",
+        "value": "https://t.me/O_U_Q1",
         "required": false
       }
     },
