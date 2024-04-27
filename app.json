@@ -1,5 +1,5 @@
 {
-    "name": "ابو صكر  صوتي",
+    "name": "  صوتي يزن",
     "description": "- السورس اخر اصدار .",
     "logo": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
     "keywords": [
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "- قناة المطور .",
-        "value": "https://t.me/O_U_Q1",
+        "value": "https://t.me/F_U_01",
         "required": false
       }
     },
