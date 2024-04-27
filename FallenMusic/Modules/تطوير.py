@@ -16,17 +16,17 @@ from FallenMusic import app
 )
 async def maker(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/5d9d0c0b7d9cb483f9867.jpg",
+        photo=f"https://telegra.ph/file/e790ec1311525588083fa.jpg",
         caption=f"""-| مطور السورس \n-| قناة المطور""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "- مطور السورس .", url=f"https://t.me/yfffgh"),
+                        "- مطور السورس .", url=f"https://t.me/Xs_UB"),
                 ],
                 [
                    InlineKeyboardButton(
-                        "- قناة المطور ", url=f"https://t.me/VIVIVIVVIV2"),
+                        "- قناة المطور ", url=f"https://t.me/O_U_Q1"),
                 ],       
             ]
         ),
