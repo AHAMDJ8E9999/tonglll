@@ -1,5 +1,5 @@
 {
-    "name": "  صوتي يزن",
+    "name": "  صوتي ابو صكر",
     "description": "- السورس اخر اصدار .",
     "logo": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
     "keywords": [
@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "- اكتب ايدي المالك .",
-        "value": "6776871146",
+        "value": "6189288341",
         "required": true
       },
       "SESSION": {
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "- قناة المطور .",
-        "value": "https://t.me/F_U_01",
+        "value": "https://t.me/O_U_Q1",
         "required": false
       }
     },
