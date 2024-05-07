@@ -16,13 +16,13 @@ from FallenMusic import app
 )
 async def maker(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/e790ec1311525588083fa.jpg",
+        photo=f"https://telegra.ph/file/d64e882e61268d454c6c0.jpg",
         caption=f"""-| مطور السورس \n-| قناة المطور""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "- مطور السورس .", url=f"https://t.me/O_U_Q1"),
+                        "- مطور السورس .", url=f"https://t.me/O_U_QA"),
                 ],
                 [
                    InlineKeyboardButton(
